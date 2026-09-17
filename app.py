@@ -1,4 +1,7 @@
+feature/read
 import os
+
+main
 from flask import Flask, render_template, request, redirect, url_for
 
 app = Flask(__name__)
@@ -66,4 +69,8 @@ def delete(item_id):
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
+feature/read
     app.run(debug=True)
+
+    app.run(debug=True)
+main
