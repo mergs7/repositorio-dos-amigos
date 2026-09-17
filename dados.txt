@@ -1,0 +1,3 @@
+1|Criar repositório e board no GitHub|Concluído
+2|Implementar CRUD em Python com arquivo TXT|Em Andamento
+3|Realizar Deploy automático e Release|Pendente
